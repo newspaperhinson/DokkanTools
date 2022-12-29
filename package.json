@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/newspaperhinson/DokkanTools/issues"
   },
-  "homepage": "https://github.com/newspaperhinson/DokkanTools#readme"
+  "homepage": "https://github.com/newspaperhinson/DokkanTools#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
 }
