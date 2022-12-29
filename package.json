@@ -1,0 +1,25 @@
+{
+  "name": "dokkantools",
+  "version": "0.0.0",
+  "description": "A tool for dokkan battle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newspaperhinson/DokkanTools.git"
+  },
+  "keywords": [
+    "dokkan",
+    "battle",
+    "dragon",
+    "ball"
+  ],
+  "author": "newspaperhinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newspaperhinson/DokkanTools/issues"
+  },
+  "homepage": "https://github.com/newspaperhinson/DokkanTools#readme"
+}
