@@ -6,7 +6,7 @@ const Root = () => {
             <header>Dokkan Tools</header>
             <div id="main-container">
                 <div id="sidebar">
-
+                    Sidebar goes here
                 </div>
                 <div id="main-content">
                     <Outlet />

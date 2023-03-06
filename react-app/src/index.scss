@@ -1,3 +1,20 @@
 body {
   margin: 0;
 }
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  header {
+    background: lightblue;
+    font-size: 2em;
+  }
+  footer {
+    background: gray;
+    color: whitesmoke;
+  }
+}
+
+#main-container {
+  flex: 1;
+}
